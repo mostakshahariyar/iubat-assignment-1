@@ -128,7 +128,9 @@ body{
         background: #FFF4D6;
     }   
     
-    
+  /*  - - - - - - - - - - - - - - - - - - - -
+                    Develop section
+ - - - - - - - - - - - - - - - - - - - -*/
 
 
  .develop-container{
@@ -208,7 +210,9 @@ body{
     margin-left: 106px;
 }
 
-
+/*  - - - - - - - - - - - - - - - - - - - -
+                    End section
+ - - - - - - - - - - - - - - - - - - - -*/
 
 .end-container h1{
     text-align: center;
@@ -220,31 +224,30 @@ body{
     font-size: 48px;
     line-height: 74px;
 }
-.end-main-container .shape147{
-    width: 147px;
-    /* height: 147px; */
-}
-.end-main-container .shape77 {
-    width: 77px;
-    height: 77px;
+.end-main-container{
+    display: flex;
+    gap: 155px;
 }
 .end-main-container .app{
     width: 229px;
     height: 471px;
+    margin-top: 85px;
+    margin-left: 256px;
+}
+.end-describtion{
+    margin-top: 160px;
+}
+#end-btn{
+    margin-left: 16px;
+    margin-top: 16px;
 }
 
-
-
-
-
-
-
-
-
-
+/*  - - - - - - - - - - - - - - - - - - - -
+                    footer section
+ - - - - - - - - - - - - - - - - - - - -*/
 
  .footer-contain{
-    margin-top: 229px;
+    margin-top: 122px;
     height: 177px;
     background-color: #0B0D17;
  }
