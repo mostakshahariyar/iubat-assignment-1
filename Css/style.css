@@ -70,6 +70,7 @@ body{
 }
 hr{
     background-color: #FF5959;
+    display: flex;
     width: 4px;
     height: 124px;
     border-radius: 5px;
