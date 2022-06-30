@@ -34,9 +34,13 @@ body{
     line-height: 80px;
     margin-bottom: 15px;
 }
+.hr-line {
+    display: flex;
+}
 .word-color{
     color: #FFAD5A;
 }
+
 .short-descrip{
     font-family: 'Poppins',sans-serif;
     font-style: normal;
@@ -63,6 +67,14 @@ body{
 .img-container img{
     width: 426px;
     margin-left: 131px;
+}
+hr{
+    background-color: #FF5959;
+    width: 4px;
+    height: 124px;
+    border-radius: 5px;
+    margin-top: 15px;    
+    margin-right: 13px;
 }
 
 
