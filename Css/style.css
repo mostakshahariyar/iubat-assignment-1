@@ -68,7 +68,7 @@ body{
     width: 426px;
     margin-left: 131px;
 }
-hr{
+.hr{
     background-color: #FF5959;
     display: flex;
     width: 4px;
